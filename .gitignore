@@ -1,0 +1,7 @@
+service/runtime/
+console/runtime/
+swoole.log
+composer.lock
+vendor/
+.idea/*
+README.md
